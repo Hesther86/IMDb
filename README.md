@@ -10,9 +10,9 @@ El objetivo del Dashboard es, de una forma clara y sencilla, poder visualizar lo
 Este Dashboard lo podría utilizar cualquier persona que este relacionada con el mundo de audiovisuales. Por ejemplo, una persona, productora o director que quiera decidir que tipo de película realizar en función de los ratings del último centenario.
 
 Después de analizar los datos, podríamos decir lo siguiente:
-• El país que más películas ha realizado en el último centenario es EEUU.
-• El año 2017, es el año más prolífero de realización de películas.
-• Los países con mayor rating serían Ecuador, la antigua Checoslovaquia, la República de Macedonia y Bermuda.
-• Y el género más utilizado es el Drama.
+  • El país que más películas ha realizado en el último centenario es EEUU.
+  • El año 2017, es el año más prolífero de realización de películas.
+  • Los países con mayor rating serían Ecuador, la antigua Checoslovaquia, la República de Macedonia y Bermuda.
+  • Y el género más utilizado es el Drama.
 
 Analizados los datos genéricos, podríamos decir más específicamente que; si se quiere realizar una película para todos los públicos, el mejor resultado sería en Francia, y de tipo de género familiar. En cambio, para una película apta para mayores de 18 años, el género más utilizado es el drama y el mejor rating es en la India y Corea del Sur.
