@@ -1,5 +1,5 @@
 # IMDb
-Dashboard de películas de la base de datos de IMDb
+El trabajo consiste en generar un Dashboard de películas de la base de datos de IMDb
 
 El análisis que se va a realizar es sobre un listado de 1.000 películas desde 1900 dado por IMDb (Internet Movie Database). En él, se podrá analizar cuál es el país que más películas ha realizado, el año que más películas se han realizado y el promedio de rating de IMDb por país. Todo ello, pudiendo filtrar por género y edad recomendada de la película.
 
